@@ -76,6 +76,7 @@
             android:layout_height="wrap_content"
             android:text="Kő"
             android:id="@+id/kogomb"
+            android:backgroundTint="#808080"
 
 
             />
@@ -86,12 +87,15 @@
             android:id="@+id/papirgomb"
             android:layout_marginLeft="30sp"
             android:layout_marginRight="30sp"
+            android:backgroundTint="#808080"
             />
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Olló"
-            android:id="@+id/ollogomb"/>
+            android:id="@+id/ollogomb"
+            android:backgroundTint="#808080"
+            />
 
 
 
